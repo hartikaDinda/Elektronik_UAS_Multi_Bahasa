@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Elektronic</string>
+    <string name="judul">Elektronic</string>
+    <string name="name_infinix">Infinix</string>
+    <string name="jenis_infinix">Android</string>
+    <string name="name_xiomi">Xiomi</string>
+    <string name="jenis_android">Android</string>
+    <string name="deskripsi_xiomi">This Xiaomi Redmi 9C has a 6.53-inch screen with a resolution of 720 x 1600 pixels, equipped with a triple main camera, namely 13MP + 2MP + 2MP and a 5MP selfie camera, equipped with the MediaTek Helio G35 chipset (12 nm) octa-core 1.8GHz and a 5,000 mAh Li-Po battery.  +                   +                 Networks : 2G, 3G, 4G (LTE)  +                 Dimensions : 164.9 x 77 x 9 mm (6.49 x 3.03 x 0.35 in)  +                 Weight : 196 g (6.91 oz)  +                 SIM : Dual SIM (Nano-SIM, dual stand-by)  +                 Display Type: IPS LCD capacitive touchscreen, 16M colors  +                 Size : 6.53 inches, 102.9 cm2 (~81.1% screen-to-body ratio)  +                 Resolution : 720 x 1600 pixels, 20:9 ratio (~269 ppi density) 400 nits typ. brightness (advertised)  +                 OS : Android 10, MIUI 12  +                 Chipset: MediaTek Helio G35 (12 nm)  +                 CPU: Octa-core (4x2.3 GHz Cortex-A53 and 4x1.8 GHz Cortex-A53)  +                 GPU : PowerVR GE8320 Card slot : microSDXC (dedicated slot)  +                 Camera: Rear Camera 13MP + 2MP + 2MP, Front Camera 5MP  +                 WLAN : Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot  +                 Bluetooth : 5.0, A2DP, LE  +                 GPS : Yes, with A-GPS, GLONASS, BDS  +                 Radio : FM radio USB : microUSB 2.0, USB On-The-Go  +                 Sensors: Fingerprint (rear-mounted), accelerometer, proximity  +                 Battery: Li-Po 5000 mAh, non-removable  +                 Charging: Charging 10W  +                 Colors : Midnight Gray, Sunrise Orange, Twilight Blue  +                 Models : M2006C3MG,</string>
+    <string name="name_oppo">OPPO Reno4 F Smartphone</string>
+    <string name="jenis_oppo">Smartphone</string>
+    <string name="diskripsi_infinix">Infinix Hot 10 [64GB/4GB]\\n                  \"Infinix HOT 10 comes with a 6.78\" TFT HD+ screen, powered by a MediaTek Helio G70 gaming processor with 4GB RAM and 64GB/128GB memory variants. 5200mAh battery, 16MP main lens quad rear camera, 8MP selfie camera</string>
+    <string name="name_nokia">Nokia 110 Handphone - Black</string>
+    <string name="jenis_nokia">Handphone</string>
+    <string name="name_blackberry">BalackBery</string>
+    <string name="deskripsi_blackberry"><![CDATA[Blackberry Aurora: First With Dual SIM & Android\n]]>Unlike in other countries, Blackberry in Indonesia has now launched its newest model. Blackberry Aurora is a Blackberry mobile phone in Indonesia. Aurora is the first Blackberry designed for Dual Sim Card and uses the Android operating system. In addition, this smartphone is equipped with a quality 13MP and 8MP camera with autofocus and dual LED flash. Comes with a Qualcomm Snapdragon 425 Chipset and 4GB RAM and 32GB memory, you can access applications and entertainment without any problems.,</string>
+    <string name="jenis_blackberry">Anroid</string>
+    <string name="name_lenovo">Lenovo</string>
+    <string name="jenis_lenovo">Intel</string>
+    <string name="name_toshiba">Toshiba</string>
+    <string name="jenis_toshiba">Intel</string>
+    <string name="name_hp">HP</string>
+    <string name="jenis_hp">HDD</string>
+    <string name="name_assus">Assus</string>
+    <string name="jenis_assus">Intel</string>
+    <string name="name_accer">Accer</string>
+    <string name="jenis_accer">Intel</string>
+    <string name="name_lg">LG</string>
+    <string name="jenis_lg">Smart TV</string>
+    <string name="name_politron">Politron</string>
+    <string name="jenis_politron">TV Led</string>
+    <string name="name_toshibaa">Toshiba 43L5995VJ FHD Android LED TV [43 Inch/ Digital/ USB]</string>
+    <string name="jenis_toshibaa">Tv LED</string>
+    <string name="deskripsi">• OS: Android 10, ColorOS 7.2\n • Size: 6.43 inches\n • Resolution: 1080 x 2400 pixels\n • Main Camera : 48MP + 8MP + 2MP + 2MP, Front Camera : 8MP + 2MP\n • Battery: Li -Po 4000 mAh,</string>
+    <string name="deskripsi_nokia">Screen size : 1.8 Inch 128 x 160 pixels (~20.2% screen-to-body ratio)\n Memory : 256 MB RAM and 10 MB internal\n Micro SD slot : Up to 32 GB\\n Alphanumeric keypad covered with rubber so it is comfortable for you to use when typing\\n Made of quality plastic material on the casing.</string>
+    <string name="deskripsi_lenovo">Laptop Description Lenovo IdeaPad Slim 3i 14IGL05-46ID Celeron®N4020/SSD 256GB/4GB:\n \n Processor: Celeron®N4020\n Storage: SSD 256GB M2 2242 NVME\n Memory: 4GB Onboard DDR4 2400\n Graphics: Integrated\n Display: 14” FHD TN AG 220N\n OS: W10\n olor: ABYSS BLUE\n Other:   0.3MP Webcam\n Mic\n Cell 35Wh\n OHS 2019\n 2Y</string>
+    <string name="deskripsi_hp">TOSHIBA DYNABOOK Notebook C40H /I3-1005G1/4GB/256GB SSD/14 \n WIN 10 \n TOSHIBA DYNABOOK C40H Notebook\n Intel Core I3-1005G1\n DDR 4 4GB\n 256GB SSD\n Screen 14 \n WIN 10 Original\n Official Warranty From Toshiba Indonesia\n Laptop, Adapter and Battery Warranty for 1 year.</string>
+    <string name="deskripsi_toshiba">Notebook TOSHIBA DYNABOOK C40H I3-1005G 14GB/256GB SSD/14 WIN 10\n Notebook TOSHIBA DYNABOOK C40H\n Intel Core I3-1005G1\n DDR 4 4GB\n 256GB SSD\\n Layar 14 \n WIN 10 Ori\n Official Warranty from Thosiba Indonesia \\n Warranty Laptop, Adapter and Battery Warranty for 1th.</string>
+    <string name="deskripsi_assus">1.High performance\\n\"Best productivity performance and smoother visual with up to Intel 11th Gen CPU and GeForce MX330 \n 2. Dual Storage\n For faster loading speed and bigger capacity\n 3. NanoEdge Display with 83% screen to body ratio\n Provide a bigger screen for work and entertainment in a smaller form factor.\n 4. Super lightweight 15.6 \n Laptop \n Easier mobility and portability\n 5. Upgradeable Storage and RAM\n Enhance your storage capacity and multitasking performance \n 6. Full options I/O Port\n Easier to connect all of your peripherals\\n\" +                 \"7. EAR HDD protection\\n\" +                 \"Protect your HDD and your data- Thin and Lightweight\\n\" +                 \"\\n\" +                 \"\\n\" +                 \"- NanoEdge Display\\n\" +                 \"- Up to Intel® Core™ 11th Gen CPU and Up to MX330 Discrete Graphics\\n\" +                 \"- Processor: Intel® Core™ i3-1005G1 Processor 1.2 GHz (4M Cache, up to 3.4 GHz, 2 cores)\\n\" +                 \"- Memory: 4GB DDR4 on board\\n\" +                 \"- Storage: 512GB M.2 NVMe™ PCIe® 3.0 SSD. HDD housing for storage expansion\\n\" +                 \"- Graphics: Intel® UHD Graphics\\n\- Display: 15.6-inch LED Backlit FHD (1920 x 1080) 16:9 200nits anti-glare panel\\n\" +                 \"- Operating System: Windows 10 Home\\n\" +                 \"- FingerPrint easy login\"</string>
+    <string name="deskripsi_accer">• Intel® Celeron® processor\n • Chrome OS™\n • 11.6 diagonal, HD (1366 x 768), anti-glare, 220 nits, 45% NTSC\n  • 4 GB LPDDR4-3733 MHz RAM (onboard)\n • 32 GB eMMC\n  • The Chromebook built for schools and designed for learning\n• Intel® UHD Graphics 600</string>
+    <string name="deskripsi_lg">\\\" LG 24TL520A-PT Monitor TV [24 Inch], A screen that delivers outstanding picture quality from any angle. USB AutoRUN offers more use. Display content as quickly as you turn on the monitor by connecting it to a USB.\n      Coming with a new design, the soundbar inspired by diamond cut gives a luxurious, modern, and minimalist impression. It is perfect for complementing your living room.\n\n Features :\n\n 5 Years Warranty (Including LED panel)\n Soundbar with Subwoofer\nFrameless LDD pecification \\n\" +                 \"\\n\" +                 \"LED TV 32\\n\" +                 \"HD 1366 x 768\\n\" +                 \"2 HDMI inputs\\n\" +                 \"YUV component input\\n\" +                 \"USB input (Movie, MP3, Jpeg. Txt)\\n\" +                 \"AV input\\n\" +                 \"VGA input\\n\" +                 \"Audio output\\n\" +                 \"Digital Audio Output / SPDIF (optical)\\n\" +                 \"8 picture modes, Preset Equalizer\\n\" +                 \"Eco mode, Screen Standby\"</string>
+    <string name="deskripsi_politron">New Soundbar Design \\n \"To produce better picture and sound quality, TOSHIBA is supported by technology from the CEVOTM Engine which can significantly improve audio and video quality. Cevo Engine will automatically adjust the image to make it look clearer, sharper and full of detail. This technology also includes a number of features such as Contrast Booster and AMR. \n nSpecification :\n Screen Size: 43 Inch \n Screen Resolution : FHD \n SMART TV OR ANDROID : YES \n NETFLIX : YES\\n\" +                 \"Chromecast built in : YES\\n\" +                 \"SPEAKER OUTPUT : 8W + 8W\\n\" +                 \"AUDIO OUT : 1 ( DIGITAL ) ; (HEADPHONE SOCKET 3.5 MM )\\n\" +                 \"Dolby Version : Dolby Digital Plus\\n\" +                 \"Power Consumption : 60 Watt\\n\" +                 \"HDMI : 3\\n\" +                 \"USB : 2\\n\" +                 \"Power\\n\" +                 \"\\n\" +                 \"Automatic Voltage Regulator AC 100V-240V 50 / 60Hz\\n\" +                 \"85 Watt Power Consumption\n 0.5 Watt\n Size\n Without Mount (Width x Height x Depth) (969 x 575 x 85) mm\n With Mount (Width x Height x Depth) (969 x 616 x 201) mm-Packed Dimensions (Width x Height x Depth) (1080 x 661 x 145) mm\n Heavy\n Weight Without Stand 6.9 kg\n With Stand 7.1 kg\n Packed Weight 9.5 kg\n</string>
+    <string name="deskripsi_toshibaa">Sharper and Vivid Image Quality with CEVO Engine\\n</string>
+    <string name="handphone">Handphone</string>
+    <string name="laptop">Laptop</string>
+    <string name="televisi">Television</string>
+    <string name="daftar">"List of "</string>
+    <string name="kampus">HAMZANWADI UNIVERSITY</string>
+    <string name="fakultas_teknik">Technic Faculty</string>
+    <string name="teknik_informatika">Technical Information</string>
+    <string name="nama">Name : Hartika Yunita</string>
+    <string name="nim">Nim => 200602008</string>
+    <string name="alamat">Adress => Gerintuk</string>
+    <string name="hoby">Hoby => Travelling</string>
+    <string name="kelasku">"Class => TI_A / Third Semester "</string>
+</resources>
