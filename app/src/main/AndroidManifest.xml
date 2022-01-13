@@ -19,7 +19,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".Profile"/>
-        <activity android:name=".GaleriActivity"/>
         <activity android:name=".DaftarElektronikActifity"/>
         <activity android:name=".ProfileActifity"/>
     </application>
