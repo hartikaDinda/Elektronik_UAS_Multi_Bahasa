@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.ImageButton;
 
 public class MainActivity extends AppCompatActivity {
-    ImageButton btnCoktail,btnMocktail,btnIndonesian_Food;
+ ImageButton btnHanphone,btnTelevisi,btnLaptop;
     public static final String JENIS_GALERI_KEY = "JENIS_GALERI";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -18,12 +18,12 @@ public class MainActivity extends AppCompatActivity {
         inisialisasiView();
     }
     private void inisialisasiView() {
-        btnCoktail = findViewById(R.id.btn_buka_oppo);
-        btnMocktail = findViewById(R.id.btn_buka_Televisi);
-        btnIndonesian_Food = findViewById(R.id.btn_buka_Laptop);
-        btnCoktail.setOnClickListener(view -> bukaGaleri(getString(R.string.handphone)));
-        btnIndonesian_Food.setOnClickListener(view -> bukaGaleri(getString(R.string.laptop)));
-        btnMocktail.setOnClickListener(view -> bukaGaleri(getString(R.string.televisi)));
+        btnHanphone = findViewById(R.id.btn_buka_oppo);
+        btnTelevisi = findViewById(R.id.btn_buka_Televisi);
+        btnLaptop = findViewById(R.id.btn_buka_Laptop);
+        btnHanphone.setOnClickListener(view -> bukaGaleri(getString(R.string.handphone)));
+        btnLaptop.setOnClickListener(view -> bukaGaleri(getString(R.string.laptop)));
+        btnTelevisi.setOnClickListener(view -> bukaGaleri(getString(R.string.televisi)));
     }
 
     private void bukaGaleri(String jenisElektronik) {
