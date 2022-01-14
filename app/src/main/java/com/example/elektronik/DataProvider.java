@@ -13,7 +13,7 @@ public class DataProvider {
 
     private static List<Elektronik> elektroniks = new ArrayList<>();
 
-    private static List<Handphone> initCoktail(Context ctx) {
+    private static List<Handphone> inihp(Context ctx) {
         List<Handphone> handphones = new ArrayList<>();
         handphones.add(new Handphone(ctx.getString(R.string.name_infinix), ctx.getString(R.string.jenis_infinix),ctx.getString(R.string.diskripsi_infinix) ,R.drawable.hp_infinix));
         handphones.add(new Handphone(ctx.getString(R.string.name_xiomi),
@@ -26,7 +26,7 @@ public class DataProvider {
         return handphones;
     }
 
-    private static List<Laptop> initMocktail(Context ctx) {
+    private static List<Laptop> iniLAptop(Context ctx) {
         List<Laptop> laptops = new ArrayList<>();
 
         laptops.add(new Laptop(ctx.getString(R.string.name_lenovo), ctx.getString(R.string.jenis_lenovo), ctx.getString(R.string.deskripsi_lenovo)
@@ -42,7 +42,7 @@ public class DataProvider {
         return laptops;
     }
 
-    private static List<Televisi> initIndonesianFoos(Context ctx) {
+    private static List<Televisi> initTelevisi(Context ctx) {
         List<Televisi> televisis = new ArrayList<>();
         televisis.add(new Televisi(ctx.getString(R.string.name_lg), ctx.getString(R.string.jenis_lg), ctx.getString(R.string.deskripsi_lg), R.drawable.tv_lg));
         televisis.add(new Televisi(ctx.getString(R.string.name_politron), ctx.getString(R.string.jenis_politron), ctx.getString(R.string.deskripsi_politron)
@@ -54,9 +54,9 @@ public class DataProvider {
 
 
     private static void initAllElektronik(Context ctx) {
-        elektroniks.addAll(initCoktail(ctx));
-        elektroniks.addAll(initMocktail(ctx));
-        elektroniks.addAll(initIndonesianFoos(ctx));
+        elektroniks.addAll(inihp(ctx));
+        elektroniks.addAll(iniLAptop(ctx));
+        elektroniks.addAll(initTelevisi(ctx));
     }
 
     public static List<Elektronik> getElektroniksByTipe(Context ctx, String jenis) {
